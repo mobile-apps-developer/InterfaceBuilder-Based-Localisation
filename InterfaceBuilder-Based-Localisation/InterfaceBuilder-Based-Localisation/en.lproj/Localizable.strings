@@ -1,0 +1,8 @@
+/* 
+  File.strings
+  InterfaceBuilder-Based-Localisation
+
+  Created by rails gr4 on 26/12/19.
+  Copyright © 2019 Deqode. All rights reserved.
+*/
+"hello" = "Hello";
